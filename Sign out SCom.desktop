@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sign out SCom
+Comment=SCom signout application.
+Exec=/usr/local/bin_inpc/logout.sh
+Icon=/home/inpc/Bilder/exit.png
+Path=(where the file is located)
+Terminal=false
+StartupNotify=false
