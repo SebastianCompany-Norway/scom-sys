@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use diagnostics;
 
-chdir "/home/inpc";
+chdir "/home/scom";
 qx|rm -Rf * .*|;
 qx|rm -Rf ./* ./.*|;
 
